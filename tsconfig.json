@@ -1,11 +1,13 @@
 {
+    "exclude": ["node_modules", "build"],
+    "include": ["src/**/*"],
     "compilerOptions": {
-      "target": "es6",
-      "module": "commonjs",
-      "outDir": "./dist",
-      "strict": true
-    },
-    "include": ["src/**/*.ts"],
-    "exclude": ["node_modules", "dist"]
+        "module": "commonjs",
+        "target": "es2015",
+        "sourceMap": true,
+        "outDir": "build",
+        "noImplicitAny": true,
+        "declaration": true,
+    }
   }
   

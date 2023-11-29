@@ -2,7 +2,7 @@ import axios, { Axios } from 'axios';
 import { CountryCodes } from '../enums/countryCodes';
 import * as errors from '../errors/errors';
 
-class Tracks {
+export default class Tracks {
     private apiKey: string | null = null;
     private baseURL: string = 'https://openapi.tidal.com';
     private controlAcceptHeader: string = 'application/vnd.tidal.v1+json';
