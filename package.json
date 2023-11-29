@@ -1,6 +1,6 @@
 {
   "name": "tidalapi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript API Wrapper for Tidal",
   "main": "index.js",
   "scripts": {
