@@ -18,12 +18,12 @@ npm install tidal-music
 
 ## Documentation
 
-For detailed information on Tidal's API, please refer to the Tidal API documentation.
+For detailed information on Tidal's API, please refer to the [Tidal API documentation](https://developer.tidal.com/documentation/overview).
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/hdgamer1404Jonas/TidalAPI/issues).
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://github.com/hdgamer1404Jonas/TidalAPI/blob/main/LICENSE).
