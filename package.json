@@ -1,6 +1,6 @@
 {
   "name": "tidal-music",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Javascript API Wrapper for Tidal",
   "main": "build/index.js",
   "type": "module",
