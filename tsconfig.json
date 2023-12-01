@@ -3,11 +3,13 @@
     "include": ["src/**/*"],
     "compilerOptions": {
         "module": "commonjs",
-        "target": "es2018",
+        "target": "es2015",
         "sourceMap": true,
         "outDir": "build",
         "noImplicitAny": true,
         "declaration": true,
+	"moduleResolution": "node",
+	"esModuleInterop": true
     }
   }
   
