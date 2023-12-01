@@ -3,7 +3,7 @@
     "include": ["src/**/*"],
     "compilerOptions": {
         "module": "commonjs",
-        "target": "es2015",
+        "target": "es2018",
         "sourceMap": true,
         "outDir": "build",
         "noImplicitAny": true,
