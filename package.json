@@ -3,7 +3,7 @@
   "version": "0.0.7",
   "description": "Javascript Wrapper for Tidals official API",
   "main": "build/index.js",
-  "type": "module",
+  "type": "commonjs",
   "types": "build/index.d.ts",
   "files": [
     "build",
