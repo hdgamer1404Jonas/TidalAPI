@@ -1,7 +1,7 @@
 import axios from 'axios';
 import Tracks from './endpoints/tracks';
 
-class TidalAPI {
+export class TidalAPI {
     private apiKey: string | null = null;
 
     public tracks: Tracks | null = null;
@@ -13,8 +13,6 @@ class TidalAPI {
         console.log('TidalAPI initialized.');
     }
 }
-
-export default TidalAPI;
 
 export * from './enums/countryCodes';
 export * from './errors/errors';
